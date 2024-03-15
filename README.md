@@ -19,7 +19,5 @@
   <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
  
- 
-  ![Animação de cobra](https://github.com/Alex-sandro3791/Alex-sandro3791/blob/output/github-contribution-grid-snake.svg)
 
 </div>
